@@ -1,0 +1,11 @@
+*.class
+*.jar
+build/
+dist/
+nbproject/
+.DS_Store
+*.docx
+*.pptx
+*.pdf
+*.png
+*.jpg
