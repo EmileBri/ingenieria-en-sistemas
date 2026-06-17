@@ -1,6 +1,6 @@
-# Ingeniería en Sistemas Computacionales — ISC, UAT
+# Ingeniería en Sistemas Computacionales — ISC, TecNM Campus Victoria
 
-Proyectos seleccionados de la licenciatura en Ingeniería en Sistemas Computacionales (UAT), previos a la maestría MCID.
+Proyectos seleccionados de la licenciatura en Ingeniería en Sistemas Computacionales (Instituto Tecnológico de Ciudad Victoria, TecNM), previos a la maestría MCID en la FIC-UAT.
 
 ## Contenido
 
